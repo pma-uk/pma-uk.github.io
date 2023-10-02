@@ -1,3 +1,3 @@
-# pma-uk.github.io
+# Welcome!
 
-Feel free to browse my personal [website](https://pma-uk.github.io/) (work in progress)!
+Feel free to browse my personal [website](https://pma-uk.github.io/) (work in progress).
